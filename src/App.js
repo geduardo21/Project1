@@ -7,6 +7,7 @@ import Home from "./components/Home";
 import Menu from "./components/Menu";
 import GiftBoxes from "./components/GiftBoxes";
 import OrderForm from "./components/OrderForm";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
         <Route path="/giftboxes" exact={true} component={GiftBoxes}/>
         <Route path="/orderform" exact = {true} component={OrderForm}/>
       </header>
+    </div>
+    <div className="oneFooter">
+      <Footer/>
     </div>
     </React.Fragment>
     </BrowserRouter>

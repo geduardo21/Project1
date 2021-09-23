@@ -39,6 +39,7 @@
 
 .email-div{
   color:#53402e;
+  margin-bottom: 10px;
 }
 
  .tabs{
@@ -197,6 +198,7 @@ width: 190px;
   margin-top: -250px;
   border-radius: 10px;
   box-shadow: 5px 5px 5px gray;
+  margin-bottom: 50px;
 }
 
 .home-msg {
@@ -209,6 +211,34 @@ width: 190px;
   margin-bottom: 100px;
 }
 
+.footer {
+  width: max-content;
+  height: 200px;
+}
+
+.oneFooter {
+  background-color: #53402e;
+}
+
+.f2-email {
+  color: white;
+  margin-left: 745px;
+  margin-top: -27px;
+}
+
+.f-email{
+  padding-top: 50px;
+  color:pink;
+  font-size: x-large;
+  margin-left: 600px;
+}
+
+.footer-branding {
+  color: white;
+  font-size: medium;
+  margin-left: 500px;
+  margin-top: 80px;
+}
 
 @keyframes App-logo-spin {
   from {

@@ -15,7 +15,7 @@ return(
         </p>
       </div>
     <div className="email-div">
-      <h1>Sign Up to receive Promotions!</h1>
+      <h1>Stay Up To Date With Us!</h1>
       </div>
     <div className="email-form">
     <form/>
