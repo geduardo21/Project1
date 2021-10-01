@@ -26,9 +26,7 @@ function App() {
         <Route path="/orderform" exact = {true} component={OrderForm}/>
       </header>
     </div>
-    <div className="oneFooter">
-      <Footer/>
-    </div>
+     <Footer/>
     </React.Fragment>
     </BrowserRouter>
   );
